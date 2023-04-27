@@ -1,1 +1,2 @@
- This file is created from CLI of GIT and the data will be checked back to git repo on UI
+ This file is created from CLI of GIT and the data will be checked back to git repo on UI 
+ added line 2
